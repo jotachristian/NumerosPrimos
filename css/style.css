@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: url(../img/Numerosprimos.jpg);
+}
+
+.quadrado {
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    height: 800px;
+    margin-left: 20%;
+    margin-top: 6%;
+    border-radius: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Advent Pro";
+    margin-top: 15%;
+}
